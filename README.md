@@ -1,5 +1,5 @@
 # Sistem-Informasi-Akademik-BackEnd
-Sistem Informasi Akademik BackEnd menggunakan framework CodeIgniter
+Sistem Informasi Akademik BackEnd menggunakan framework CodeIgniter.
 Academic Information System BackEnd using CodeIgniter.
 
 # Rest In CI
